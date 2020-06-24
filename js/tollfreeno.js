@@ -6,7 +6,7 @@ $(document).ready(function () {
     $.ajax({
       'async': false,
       'global': false,
-      'url': "json/toll_number.json",
+      'url': "json/counselling.json",
       'dataType': "json",
       'success': function (data) {
         json = data;
