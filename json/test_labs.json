@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "National Institute of Virology, Field Unit, Allapuzzha",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " Govt Medical College, Thiruvanathapuram ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Govt Medical College, Kozhikode",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Govt Medical College, Thrissur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Rajiv Gandhi Center for Biotechnology, Thiruvanathapuram",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " Sree Chitra Tirunal Institute of Medical Sciences, Thiruvanathapuram",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " State Public Health Laboratory, Trivandrum",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Inter University, Kottayam",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Malabar Cancer Center, Thalassery",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " Central University of Kerala, Periye, Kasaragod",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Govt Medical College, Ernakulum",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Govt Medical College, Manjeri",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " Govt Medical College, Kottayam",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Govt Medical College, Kannur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " Indian Institute of Science Education and Research IISER , Thiruvananthapuram ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "16",
+            "name": " Regional Public Health Laboratory, Pathanamthitta",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "17",
+            "name": " Government Medical College Hospital, Kollam",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "18",
+            "name": " Government TD Medical College, Alappuzha ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "19",
+            "name": "District Public Health Laboratory, Wayanad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "20",
+            "name": " District TB Centre, Palakkad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "21",
+            "name": " INHS Sanjivani, Kochi ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "22",
+            "name": " Regional Cancer Centre, Thiruvananthapuram",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "23",
+            "name": " Dept of Pathology and Lab Medicine, Aster Medcity, Aster DM Healthcare Ltd, Kutty Sahib Road, Kothad, Cochin",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "24",
+            "name": " NIMS Medicity, Department of Laboratory Medicine, Aralumoodu, Neyyattinkara, Thiruvananthapuram",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "25",
+            "name": " Rajagiri Hospital Laboratory Services, Rajagiri Hospital, Chunangamvely, Aluva ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "26",
+            "name": " Micro Health LAbs, MPS Tower, Kozhikode",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "27",
+            "name": " Microbiology Section, Department Of Laboratory Medicine, Kerala Instittute Of Medical Sciences, Anamukham, Anayara P O Thiruvananthapuram",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "28",
+            "name": " Believers Church Medical College Laboratory, St Thomas Nagar, Kuttapuzha P O , Thiruvalla",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "29",
+            "name": " DDRC SRL Diagnostics Pvt Ltd, Panampilly Nagar, Ernakulam",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "30",
+            "name": " MIMS Lab Services, Govindapuram, Kozhikode ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "31",
+            "name": " Lab Services of Amrita Institute of Medical Sciences Research Centre, AIMS Ponekkara, Kochi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "32",
+            "name": " Dane Diagnostics Pvt Ltd, , RC Road, Palakkad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "33",
+            "name": " Medivision Scan Diagnostic Research Centre Pvt Ltd, Sreekandath Road, Kochi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "34",
+            "name": " MVR Cancer Centre Research Institute, CP B, C, Vellalaserri NIT via , Poolacode, Kozhikode",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        }
+    ]
+}

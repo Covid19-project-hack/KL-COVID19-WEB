@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "Thiruvananthapuram",
+            "phone_number": "9946463466"
+        },
+        {
+            "sno": "2",
+            "district": "Kollam",
+            "phone_number": "9447005161"
+        },
+        {
+            "sno": "3",
+            "district": "Alappuzha",
+            "phone_number": "9400415727"
+        },
+        {
+            "sno": "4",
+            "district": "Pathanamthitta",
+            "phone_number": "9048804884"
+        },
+        {
+            "sno": "5",
+            "district": "Kottayam",
+            "phone_number": "9847220929"
+        },
+        {
+            "sno": "6",
+            "district": "Idukki",
+            "phone_number": "9188377551"
+        },
+        {
+            "sno": "7",
+            "district": "Ernakulam",
+            "phone_number": "9446172050"
+        },
+        {
+            "sno": "8",
+            "district": "Thrissur",
+            "phone_number": "8086007999"
+        },
+        {
+            "sno": "9",
+            "district": "Palakkad",
+            "phone_number": "8547338442"
+        },
+        {
+            "sno": "10",
+            "district": "Malappuram",
+            "phone_number": "9745843625"
+        },
+        {
+            "sno": "11",
+            "district": "Kozhikode",
+            "phone_number": "8281904533"
+        },
+        {
+            "sno": "12",
+            "district": "Wayanad",
+            "phone_number": "7025713204"
+        },
+        {
+            "sno": "13",
+            "district": "Kannur",
+            "phone_number": "8593997722"
+        },
+        {
+            "sno": "14",
+            "district": "Kasaragod",
+            "phone_number": "9946895555"
+        }
+    ]
+}

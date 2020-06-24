@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "name": "Domestic Entry Permit",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addDomestic"
+        },
+        {
+            "name": "Pravasi Registration",
+            "link": "https://covid19jagratha.kerala.nic.in/home/pravasiEntry"
+        },
+        {
+            "name": "Emergency Travel Pass",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addMedicalEmergencyPass"
+        },
+        {
+            "name": "Short Visit/Regular Visit Pass",
+            "link": "https://covid19jagratha.kerala.nic.in/home/shortVisit"
+        },
+        {
+            "name": "Vehicle Permit for Essential Goods & Services",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addEssentialservices"
+        },
+        {
+            "name": "Operation Permit for Establishment and its staff",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addShopPermit"
+        },
+        {
+            "name": "Renew Vehicle Permit for Essential Goods & Services",
+            "link": "https://covid19jagratha.kerala.nic.in/home/renewVehiclePermit"
+        },
+        {
+            "name": "Report Offence",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addOffence"
+        },
+        {
+            "name": "Self Declaration",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addpermission"
+        },
+        {
+            "name": "Complaints/Requests",
+            "link": "https://covid19jagratha.kerala.nic.in/home/addComplaints"
+        }
+        
+    ]
+}
+

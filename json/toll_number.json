@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "TRIVANDRUM",
+            "phone_number": "0471-2730067/2730045"
+        },
+        {
+            "sno": "2",
+            "district": "KOLLAM",
+            "phone_number": "04742794002/ 944767780"
+        },
+        {
+            "sno": "3",
+            "district": "PATHANAMTHITTA",
+            "phone_number": "9188297118/ 9188296118/ 9188295124"
+        },
+        {
+            "sno": "4",
+            "district": "ALAPPUZHA",
+            "phone_number": "0477-2239999/2239300"
+        },
+        {
+            "sno": "5",
+            "district": "KOTTAYAM",
+            "phone_number": "9446025805/ 7034554366/9605054018/ 9447379091/\r\n9495041664/ 0481-252583200/04812304800"
+        },
+        {
+            "sno": "6",
+            "district": "IDUKKI",
+            "phone_number": "9447825015/9495961212/8330089636"
+        },
+        {
+            "sno": "7",
+            "district": "ERNAKULAM",
+            "phone_number": "0484-2423513/2959040"
+        },
+        {
+            "sno": "8",
+            "district": "THRISSUR",
+            "phone_number": "9400063426/9400063428/9400063429"
+        },
+        {
+            "sno": "9",
+            "district": "MALAPURAM",
+            "phone_number": "0483-2736326 / 0483-2737857"
+        },
+        {
+            "sno": "10",
+            "district": "PALAKKAD",
+            "phone_number": "8301803282/ 0491-2505309"
+        },
+        {
+            "sno": "11",
+            "district": "WAYANAD",
+            "phone_number": "9388106410/7012599746/0493-6204151"
+        },
+        {
+            "sno": "12",
+            "district": "KOZHIKODE",
+            "phone_number": "0495-2371400 (DOMESTIC) / 0495-2371002 (EXIT)/\r\n7907666953 /6282181646/ 8848622770/ 7907662204/\r\n9074158325"
+        },
+        {
+            "sno": "13",
+            "district": "KANNUR",
+            "phone_number": "9400066061/62/63"
+        },
+        {
+            "sno": "14",
+            "district": "KASARAGOD",
+            "phone_number": "0499-4255001/4257700"
+        }
+    ]
+}

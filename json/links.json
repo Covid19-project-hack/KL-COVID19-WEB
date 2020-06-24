@@ -1,0 +1,26 @@
+{
+
+"data": [
+    {
+        "title": "Protect Yourself",
+        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+    },
+    {
+        "title": "Question & Answers",
+        "link": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses"
+    },
+    {
+        "title": "Myth Busters",
+        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+    },
+    {
+        "title": "Travel Advice",
+        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice"
+    },
+    {
+        "title": "Training & Learning",
+        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/online-training"
+    }
+
+]
+}
